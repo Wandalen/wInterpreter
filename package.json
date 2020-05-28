@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wInterpreter/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "winterpreter" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "winterpreter" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
