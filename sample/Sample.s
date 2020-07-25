@@ -3,5 +3,5 @@ let _ = require( 'winterpreter' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
