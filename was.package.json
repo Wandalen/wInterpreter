@@ -17,6 +17,6 @@
     "url" : "https://github.com/Wandalen/wInterpreter/issues"
   },
   "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "winterpreter" : "file:." },
+  "devDependencies" : { "wTesting" : "", "winterpreter" : "file:.", "eslint" : "7.1.0" },
   "keywords" : [ "wTools" ]
 }
