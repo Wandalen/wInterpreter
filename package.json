@@ -1,6 +1,6 @@
 {
   "name" : "winterpreter",
-  "version" : "0.3.40",
+  "version" : "0.3.41",
   "description" : "___",
   "author" : "Kostiantyn Wandalen <wanalen@01.school>",
   "license" : "MIT",
@@ -17,6 +17,6 @@
     "url" : "https://github.com/Wandalen/wInterpreter/issues"
   },
   "dependencies" : { "wTools" : "alpha" },
-  "devDependencies" : { "winterpreter" : "file:.", "wTesting" : "alpha" },
+  "devDependencies" : { "winterpreter" : "file:.", "eslint" : "7.1.0", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
