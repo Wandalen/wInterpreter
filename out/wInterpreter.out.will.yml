@@ -1458,6 +1458,4 @@ module:
       ../.im.will.yml:
         hash: 41e8fdb262ab8ce24c3a02b5aa45e64e
         size: 4666
-      wInterpreter.out.will.yml:
-        hash: c5a36e403e2ee89c2060bbc84a34b296
-        size: 36749
+      wInterpreter.out.will.yml: *ref_0
