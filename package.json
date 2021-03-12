@@ -1,6 +1,6 @@
 {
   "name": "winterpreter",
-  "version": "0.3.57",
+  "version": "0.3.58",
   "description": "___",
   "author": "Kostiantyn Wandalen <wanalen@01.school>",
   "license": "MIT",
@@ -21,11 +21,11 @@
     "url": "https://github.com/Wandalen/wInterpreter/issues"
   },
   "dependencies": {
-    "wTools": "alpha"
+    "wTools": "gamma"
   },
   "devDependencies": {
     "eslint": "7.1.0",
-    "wTesting": "alpha",
+    "wTesting": "gamma",
     "winterpreter": "file:."
   },
   "keywords": [
